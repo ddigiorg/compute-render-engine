@@ -1,3 +1,14 @@
+# Archlinux Installation
+
+Packages: use pacman -S _____
+- glew 2.0.0-1
+- nvidia 375.10-1
+- nvidia-libgl 375.10-2 (remove mesa-libgl)
+- opencl-headers 2:2.1.20151224-1
+- opencl-nvidia 375.10-2
+- sfml-2.4.1-1
+- opencv-3.1.0-3
+
 # Windows Visual Studio Installtion
 Verified:
 - Visual Studio 2017
