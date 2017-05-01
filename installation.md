@@ -1,4 +1,4 @@
-# Windows Install
+# Windows Visual Studio Installtion
 Verified:
 - Visual Studio 2017
 - OpenCL via CUDA Version 8.0.44
@@ -49,18 +49,18 @@ Verified:
     - Glew32.lib
     - sfml-system.lib
     - sfml-window.lib
-    -sl-graphics.lib
+    - sfml-graphics.lib
 
-For “Solution Configuration” select “Release”.  Then “Build > Build Solution”.
+- For “Solution Configuration” select “Release”.  Then “Build > Build Solution”.
 
-Copy compute-render-engine’s source and resource folders  into project’s release directory (e.g. D:\code\CRE\x64\Release)
+- Copy compute-render-engine’s source and resource folders  into project’s release directory (e.g. D:\code\CRE\x64\Release)
 
-Copy .dll files into project’s release directory (e.g. D:\code\CRE\x64\Release)
-Glew32.dll
-sfml-system-2.dll
-sfml-window-2.dll
-sfml-graphics-2.dll
-opencv_world320.dll
-opencv_ffmpeg320_64.dll
+- Copy .dll files into project’s release directory (e.g. D:\code\CRE\x64\Release)
+  - Glew32.dll
+  - sfml-system-2.dll
+  - sfml-window-2.dll
+  - sfml-graphics-2.dll
+  - opencv_world320.dll
+  - opencv_ffmpeg320_64.dll
 
-Run the .exe in project’s release directory (e.g. D:\code\CRE\x64\Release)
+- Run the .exe in project’s release directory (e.g. D:\code\CRE\x64\Release)
