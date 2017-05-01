@@ -1,6 +1,5 @@
 # Archlinux Installation
-
-Packages: use pacman -S _____
+Verified:
 - glew 2.0.0-1
 - nvidia 375.10-1
 - nvidia-libgl 375.10-2 (remove mesa-libgl)
@@ -8,6 +7,8 @@ Packages: use pacman -S _____
 - opencl-nvidia 375.10-2
 - sfml-2.4.1-1
 - opencv-3.1.0-3
+
+To install packages use "pacman -S _____"
 
 # Windows Visual Studio Installtion
 Verified:
