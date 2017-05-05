@@ -8,7 +8,7 @@ Please click the images to be redirected to the videos on Youtube.
 
 ### Particles
 
-[![Particles Demo](https://img.youtube.com/watch?v=jjvSq6iag0k/0.jpg)](https://www.youtube.com/watch?v=jjvSq6iag0k)
+[![Particles Demo](https://img.youtube.com/vi/watch?v=jjvSq6iag0k/0.jpg)](https://www.youtube.com/watch?v=jjvSq6iag0k)
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
