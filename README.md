@@ -10,6 +10,11 @@ https://www.youtube.com/watch?v=jjvSq6iag0k
 
 The particles demo creates an OpenGL vertex buffer object (VBO) of particle positions which gets shared with an OpenCL kernel.  The OpenCL kernel uses Neutonian physics equations to calculate the position and velocity of each particle relative to a point gravity provided by a mouse click.  OpenGL handles the color VBO.  The demo shows 4 million particles at ~60fps on the GeForce GTX 750 Ti graphics card.  The highest number of particles the  GeForce GTX 750 Ti can handle before dipping under 60fps is 8 million particles.  The demos was also run on a GeForce GTX 1070 with a limit of 27 million particles before dipping under 60fps.</p>
 
+Engine Capabilities:
+
+- 8 million particles at ~60 FPS on a GeForce GTX 750 Ti GPU
+- 27 million particles at ~60 FPS on a GeForce GTX 1070 GPU
+
 ### Retina
 
 https://www.youtube.com/watch?v=MzjDUMFdF1E
